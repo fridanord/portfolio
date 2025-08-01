@@ -15,10 +15,10 @@ const projects = [
     link: 'https://github.com/fridanord/vaderkollen',
   },
   {
-    title: 'Forum',
-    image: '/artlolu2.png', // Byt ut till riktiga bilder
-    description: '(Pågående) Ett forum och community för konstnärer, byggt med React, Node.js, MongoDB.',
-    link: '#',
+    title: 'Palette picker',
+    image: '/palette-picker.png', 
+    description: 'En enkel färgpalettsgenerator byggd i React och TS',
+    link: 'https://palette-picker0.netlify.app/',
   },
   
 ];
