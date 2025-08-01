@@ -15,7 +15,7 @@ const projects = [
     link: 'https://github.com/fridanord/vaderkollen',
   },
   {
-    title: 'ArtloLu – konstforum',
+    title: 'Forum',
     image: '/artlolu2.png', // Byt ut till riktiga bilder
     description: '(Pågående) Ett forum och community för konstnärer, byggt med React, Node.js, MongoDB.',
     link: '#',
