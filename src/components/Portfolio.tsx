@@ -17,7 +17,7 @@ const projects = [
   {
     title: 'ArtloLu – konstforum',
     image: '/artlolu2.png', // Byt ut till riktiga bilder
-    description: '(PÅGÅENDE) Ett forum och community för konstnärer, byggt med React, Node.js, MongoDB.',
+    description: '(Pågående) Ett forum och community för konstnärer, byggt med React, Node.js, MongoDB.',
     link: '#',
   },
   
