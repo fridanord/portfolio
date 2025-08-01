@@ -39,15 +39,12 @@ export default function About() {
             fontFamily: '"Inter", sans-serif',
           }}
         >
-          Jag heter Frida, 29 och är en frontenddeveloper student som gillar att kombinera kod med design. Mitt fokus ligger på att skapa tydliga och tillgängliga gränssnitt – både snygga och användarvänliga.
-  
-  Jag har erfarenhet av moderna verktyg som <strong>React</strong>, <strong>TypeScript</strong> och <strong>Material UI</strong>, och brinner för att lära mig nya saker inom både utveckling och <strong>UX/UI</strong>.
-  <br /><br />
-  Jag tycker det är viktigt att bygga produkter som inte bara fungerar – utan känns. Jag är noggrann med detaljer, gillar att tänka komponentbaserat och ser samarbete som en självklar del av utvecklingsprocessen.
-  
-  Under utbildningen har jag genomfört flera projekt i team där vi använt <strong>Git</strong>, <strong>Agil metodik</strong> och <strong>Figma</strong> för design och prototypning.
-  <br /><br />
-  Just nu letar jag efter en praktikplats eller arbetsplats där jag får växa som utvecklare, bidra med mitt driv – och samtidigt lära mig av er!
+          
+          Jag heter Frida, 29 år, och studerar till frontendutvecklare på Medieinstitutet i Stockholm.
+          Jag gillar att kombinera kod och design, och brinner för att skapa tydliga, responsiva och tillgängliga gränssnitt – gärna med en visuell och användarvänlig form.<br /><br />
+          Under utbildningen har jag arbetat i agila team och byggt webbapplikationer med <strong>React</strong>, <strong>TypeScript</strong> och <strong>REST API:er</strong>.
+          Vi har också jobbat med <strong>UX/UI-design</strong> i <strong>Figma</strong>, med fokus på användarupplevelse och tillgänglighet.<br /><br />
+          Just nu söker jag en <strong>LIA-plats</strong> (praktik) under hösten 2025 där jag får utvecklas, bidra till riktiga projekt och bli en del av ett engagerat team.
         </Typography>
       </Box>
     </Box>
