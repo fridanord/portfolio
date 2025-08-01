@@ -4,19 +4,19 @@ import { Box, Typography, Card, CardMedia, CardContent, CardActions, Button } fr
 const projects = [
     {
     title: 'Todo lista - applikation',
-    image: '/public/todo.png',
+    image: '/todo.png',
     description: 'En Todo lista – byggd i React och TypeScript.',
     link: 'https://todo-list-fridanord.netlify.app/',
   },
   {
     title: 'Väderkollen – Väderapplikation',
-    image: '/public/vaderkollen.png',
+    image: '/vaderkollen.png',
     description: 'En väderapplikation skapad i React, TS och Material UI.',
     link: 'https://github.com/fridanord/vaderkollen',
   },
   {
     title: 'ArtloLu – konstforum',
-    image: '/public/artlolu2.png', // Byt ut till riktiga bilder
+    image: '/artlolu2.png', // Byt ut till riktiga bilder
     description: '(PÅGÅENDE) Ett forum och community för konstnärer, byggt med React, Node.js, MongoDB.',
     link: '#',
   },

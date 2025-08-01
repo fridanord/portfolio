@@ -55,7 +55,7 @@ export default function Header() {
                 backgroundColor: '#132011ff',
                 fontFamily: '"Inter", sans-serif',
               }}
-              href="/public/FridaNordCV.pdf"
+              href="/FridaNordCV.pdf"
               download
             >
               Ladda ner CV
