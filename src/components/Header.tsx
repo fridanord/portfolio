@@ -35,7 +35,7 @@ export default function Header() {
               component="span"
               sx={{ fontStyle: 'italic', color: '#ffe570ff' }}
             >
-              frontendutvecklare.
+              frontend utvecklare.
             </Box>
           </Typography>
 
