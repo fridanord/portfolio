@@ -1,5 +1,4 @@
-// src/components/Menu.tsx
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
   Box,
   Button,
